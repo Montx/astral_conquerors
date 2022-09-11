@@ -1,0 +1,6 @@
+[submodule "submodules/imgui"]
+	path = submodules/imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "submodules/Ogre3D"]
+	path = submodules/Ogre3D
+	url = git@github.com:OGRECave/ogre.git
